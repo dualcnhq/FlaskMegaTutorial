@@ -1,4 +1,4 @@
-iFlask Mega Tutorial
+Flask Mega Tutorial
 =========
 
 
